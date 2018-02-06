@@ -1,0 +1,12 @@
+.login-pf body {
+	background-image: linear-gradient(to right, #006eb4, #0084b4,#006eb4);	
+}
+
+a { 
+	color: #cacaca;
+}
+
+#kc-logo {
+   display:none;
+}
+
